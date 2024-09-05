@@ -10,9 +10,18 @@ body {
 
 h4{
     color: rgb(126, 129, 133);
+    text-align: center;
 }
 
 .imgcentro{
     display: block;
     margin: auto;
+}
+
+h3{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
 }
