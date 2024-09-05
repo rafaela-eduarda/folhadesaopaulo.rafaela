@@ -11,3 +11,8 @@ body {
 h4{
     color: rgb(126, 129, 133);
 }
+
+.imgcentro{
+    display: block;
+    margin: auto;
+}
