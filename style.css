@@ -17,3 +17,7 @@ h4{
     margin: auto;
 }
 
+.iconecompartilhar{
+    display: flex;
+    align-items: center;
+}
